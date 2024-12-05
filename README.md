@@ -33,4 +33,4 @@ mit-scheme --quiet < $fileName
 
 * * *
 
-When running .scm scripts, make sue to add (newline) to display objects one after the other.
+When running .scm scripts, make sure to add (newline) to display objects one after the other.
