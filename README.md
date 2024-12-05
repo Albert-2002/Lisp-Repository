@@ -32,3 +32,5 @@ mit-scheme --quiet < $fileName
 5. Computing with Register Machines
 
 * * *
+
+When running .scm scripts, make sue to add (newline) to display objects one after the other.
